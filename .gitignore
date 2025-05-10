@@ -1,0 +1,7 @@
+# Ne pas versionner les JSON secrets
+*.json
+*.lock
+
+# Modules externes
+vendor/
+node_modules/
